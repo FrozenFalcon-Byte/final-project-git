@@ -1,7 +1,7 @@
 # Final Project - Git and GitHub
 
 ## 📌 Project Description
-This repository is created as part of the final project for the Git and GitHub course. It demonstrates the use of GitHub UI and Git CLI features.
+This repository is created as part of the final project for the Git and GitHub course. It demonstrates the use of GitHub UI and Git CLI features for IBM.
 
 ## 🛠️ Features
 - Repository creation and management
