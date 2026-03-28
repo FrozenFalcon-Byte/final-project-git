@@ -7,7 +7,7 @@ This repository is created as part of the final project for the Git and GitHub c
 - Repository creation and management
 - License and documentation files
 - Bash script for simple interest calculation
-- Git branching and merging
+- Git branching and merging for demo
 
 ## 👨‍💻 Author
 Ajinkya Chavan
