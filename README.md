@@ -1,16 +1,10 @@
-# Final Project - Git and GitHub
+# Simple Interest Calculator
+A bash script that calculates simple interest given principal, annual rate of interest and time period in years.
 
-## 📌 Project Description
-This repository is created as part of the final project for the Git and GitHub course. It demonstrates the use of GitHub UI and Git CLI features for IBM.
+## Input:
+   p, principal amount
+   t, time period in years
+   r, annual rate of interest
 
-## 🛠️ Features
-- Repository creation and management
-- License and documentation files
-- Bash script for simple interest calculation
-- Git branching and merging
-
-## 👨‍💻 Author
-Ajinkya Chavan
-
-## 📄 License
-This project is licensed under the Apache 2.0 License.
+## Output:
+   simple interest = p*t*r
